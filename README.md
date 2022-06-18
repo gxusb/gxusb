@@ -7,7 +7,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR 
+1. 🗣 Commented on [#176](https://github.com/cppla/ServerStatus/issues/176) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
 2. ❌ Closed PR
 3. 🗣 Commented 
 4. 💪 Opened PR 
