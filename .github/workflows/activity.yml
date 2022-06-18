@@ -1,4 +1,4 @@
-name: Recent Activity
+name: Update README
 
 on:
   schedule:
@@ -7,9 +7,11 @@ on:
 
 jobs:
   build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
 
     steps:
+      - name: GitHub - Activity - Readme
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
