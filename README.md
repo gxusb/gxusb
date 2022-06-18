@@ -12,10 +12,10 @@
  3. 💪 Opened PR 
  4. 🎉 Merged PR 
  5. 
- 7.
- 8.
- 9.
- 10.
+ 7. 
+ 8. 
+ 9. 
+ 10. 
 <!--END_SECTION:activity-->
 
 </details>
