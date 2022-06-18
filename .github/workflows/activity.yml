@@ -15,5 +15,8 @@ jobs:
         uses: actions/checkout@v3
       - name: GitHub - Activity - Readme
         uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: '🎉 Update README with the recent activity'
+          MAX_LINES: 10
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
