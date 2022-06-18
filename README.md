@@ -8,14 +8,6 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#176](https://github.com/cppla/ServerStatus/issues/176) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
- 2. 🗣 Commented 
- 3. 💪 Opened PR 
- 4. 🎉 Merged PR 
- 5. 
- 7. 
- 8. 
- 9. 
- 10. 
 <!--END_SECTION:activity-->
 
 </details>
