@@ -7,7 +7,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-
+1. 💪 Opened PR 
+2. ❌ Closed PR
+3. 🗣 Commented 
+4. 💪 Opened PR 
+5. 🎉 Merged PR 
 <!--END_SECTION:activity-->
 
 </details>
