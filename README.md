@@ -12,6 +12,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1470](https://github.com/typecho/typecho/issues/1470) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1470](https://github.com/typecho/typecho/issues/1470) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
