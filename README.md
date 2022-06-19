@@ -12,7 +12,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1470](https://github.com/typecho/typecho/issues/1470) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1470](https://github.com/typecho/typecho/issues/1470) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#176](https://github.com/cppla/ServerStatus/issues/176) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
 <!--END_SECTION:activity-->
 
 </details>
