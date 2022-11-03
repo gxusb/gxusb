@@ -22,7 +22,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-206-blue)
 
 **I Mostly Code in Shell** 
 
@@ -37,7 +37,7 @@ Shell                    1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/gxusb/gxusb/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 12:57:07 UTC
+ Last Updated on 03/11/2022 18:40:27 UTC
 <!--END_SECTION:waka-->
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
