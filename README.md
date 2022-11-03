@@ -21,6 +21,8 @@
 <!--END_SECTION:activity-->
 </details>
 
+
+[wakatime](https://wakatime.com/dashboard)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-206-blue)
 
