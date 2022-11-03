@@ -77,8 +77,12 @@ Shell                    1 repo              ███████████�
 <!--END_SECTION:waka-->
 
  <!-- waka-box start -->
- 
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/595eec8ae8745b516c9a8ad8a265a100" target="_blank">📊 Weekly development breakdown</a>
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
 
