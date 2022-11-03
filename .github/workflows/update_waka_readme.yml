@@ -19,4 +19,4 @@ jobs:
           SHOW_PROJECTS: "False"
           # Show GitHub Data
           SHOW_SHORT_INFO: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
