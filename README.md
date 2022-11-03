@@ -24,7 +24,45 @@
 
 [wakatime](https://wakatime.com/dashboard)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-206-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
+🌆 Daytime    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+🌃 Evening    52 commits     █████████████████████░░░░   85.25% 
+🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+Tuesday      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
+Thursday     21 commits     ████████░░░░░░░░░░░░░░░░░   34.43% 
+Friday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+Saturday     14 commits     █████░░░░░░░░░░░░░░░░░░░░   22.95% 
+Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.56%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in Shell** 
 
@@ -39,7 +77,7 @@ Shell                    1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/gxusb/gxusb/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 18:40:27 UTC
+ Last Updated on 03/11/2022 19:53:38 UTC
 <!--END_SECTION:waka-->
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
