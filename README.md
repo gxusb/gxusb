@@ -23,18 +23,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 75 Contributions in the Year 2022
- > 
-> 📦 69 Bytes Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I Mostly Code in Shell** 
 
 ```text
@@ -48,7 +36,7 @@ Shell                    1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/gxusb/gxusb/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 11:20:22 UTC
+ Last Updated on 03/11/2022 11:37:50 UTC
 <!--END_SECTION:waka-->
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
