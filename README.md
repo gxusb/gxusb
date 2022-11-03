@@ -9,7 +9,6 @@
 
 <details>
 <summary>:zap: Recent Activity</summary>
-
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#193](https://github.com/cppla/ServerStatus/issues/193) in [cppla/ServerStatus](https://github.com/cppla/ServerStatus)
 2. 🗣 Commented on [#38](https://github.com/BililiveRecorder/BililiveRecorder-WebUI/issues/38) in [BililiveRecorder/BililiveRecorder-WebUI](https://github.com/BililiveRecorder/BililiveRecorder-WebUI)
@@ -17,8 +16,10 @@
 4. ❗️ Opened issue [#418](https://github.com/BililiveRecorder/BililiveRecorder/issues/418) in [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)
 5. 🗣 Commented on [#13](https://github.com/Cluas/189checkin/issues/13) in [Cluas/189checkin](https://github.com/Cluas/189checkin)
 <!--END_SECTION:activity-->
-
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
 
