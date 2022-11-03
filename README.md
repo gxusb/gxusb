@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn align="right")](https://github.com/gxusb)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxusb&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn)](https://github.com/gxusb)
 
 <details>
