@@ -25,13 +25,13 @@ jobs:
           SHOW_TIMEZONE: "False"
           LOCALE: "zh"
 
-  update-gist:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - name: Update gist with WakaTime stats
-        uses: matchai/waka-box@master
-        env:
-          GH_TOKEN: ${{ secrets.GIT_TOKEN }}
-          GIST_ID: "595eec8ae8745b516c9a8ad8a265a100"
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#   update-gist:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@master
+#       - name: Update gist with WakaTime stats
+#         uses: matchai/waka-box@master
+#         env:
+#           GH_TOKEN: ${{ secrets.GIT_TOKEN }}
+#           GIST_ID: "595eec8ae8745b516c9a8ad8a265a100"
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
