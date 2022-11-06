@@ -82,16 +82,7 @@ Shell                    1 repo              ███████████�
  Last Updated on 05/11/2022 18:32:36 UTC
 <!--END_SECTION:waka-->
 
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/595eec8ae8745b516c9a8ad8a265a100" target="_blank">📊 Weekly development breakdown</a>
-```text
-Python           🕓 49m ██████▊░░░░░░░░░░░░░░░░░ 28.6%
-Bash             🕓 47m ██████▌░░░░░░░░░░░░░░░░░ 27.1%
-INI              🕓 23m ███▏░░░░░░░░░░░░░░░░░░░░ 13.3%
-Markdown         🕓 22m ███░░░░░░░░░░░░░░░░░░░░░ 13.0%
-YAML             🕓 9m  █▎░░░░░░░░░░░░░░░░░░░░░░  5.7%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box start -->
 <!-- waka-box end -->
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
