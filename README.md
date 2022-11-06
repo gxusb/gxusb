@@ -8,10 +8,10 @@
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&theme=tokyonight&hide_border=true&locale=cn">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=gxusb&theme=dark&locale=zh&fire=0ECBDD">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=gxusb&theme=dark&locale=zh&fire=92DD6B&ring=6FAFDD">
 </p>
 
-[![Gxusb's github activity graph](https://activity-graph.herokuapp.com/graph?username=gxusb&theme=github&hide_border=true&locale=cn)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gxusb&bg_color=606060&color=ffffff&line=d6d6d6&point=74a7fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 <p align="left">
