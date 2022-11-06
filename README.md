@@ -11,7 +11,7 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxusb&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn">
 </p>
 
-[!Gxusb's github activity graph](https://activity-graph.herokuapp.com/graph?username=gxusb&theme=github&hide_border=true&locale=cn)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gxusb's github activity graph](https://activity-graph.herokuapp.com/graph?username=gxusb&theme=github&hide_border=true&locale=cn)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 <p align="left">
