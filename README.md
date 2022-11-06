@@ -3,17 +3,20 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-  
-<a href="https://github.com/gxusb"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxusb&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn)
+## ⚡ Github Stats
+
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" />
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxusb&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn">
-<!--- 
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gxusb&theme=tokyonight&hide_border=true&locale=cn" />
---->
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxusb&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn">
 </p>
+
+<!---
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gxusb&theme=tokyonight&hide_border=true&locale=cn" />
+</p>
+--->
 
 <details>
 <summary>:zap: Recent Activity</summary>
