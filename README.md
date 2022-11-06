@@ -8,7 +8,7 @@
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&theme=tokyonight&hide_border=true&locale=cn">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gxusb&theme=tokyonight&hide_border=true&locale=cn">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=gxusb&theme=dark&locale=zh&fire=0ECBDD">
 </p>
 
 [![Gxusb's github activity graph](https://activity-graph.herokuapp.com/graph?username=gxusb&theme=github&hide_border=true&locale=cn)](https://github.com/ashutosh00710/github-readme-activity-graph)
