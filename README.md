@@ -41,7 +41,7 @@
 
 [wakatime](https://wakatime.com/dashboard)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-8-blue)
 
@@ -74,10 +74,11 @@
 
 ```text
 💬 编程语言: 
-Bash                     45 mins             █████████████████████████   100.0%
+Bash                     45 mins             ███████████████████████░░   95.09% 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
 
 🔥 编辑器: 
-VS Code                  45 mins             █████████████████████████   100.0%
+VS Code                  47 mins             █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +91,7 @@ Shell                    1 repo              ███████████�
 
 
 
- Last Updated on 21/01/2023 18:26:24 UTC
+ Last Updated on 22/01/2023 01:52:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
