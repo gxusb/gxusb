@@ -41,7 +41,7 @@
 
 [wakatime](https://wakatime.com/dashboard)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-10-blue)
 
@@ -74,10 +74,10 @@
 
 ```text
 💬 编程语言: 
-本周没有记录到任何活动
+Bash                     1 hr 33 mins        █████████████████████████   100.0%
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  1 hr 33 mins        █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +90,7 @@ Shell                    1 repo              ███████████�
 
 
 
- Last Updated on 04/02/2023 18:26:15 UTC
+ Last Updated on 05/02/2023 01:56:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
