@@ -24,7 +24,7 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#457](https://github.com/jaywcjlove/linux-command/issues/457) in [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command)
+1. 🗣 Commented on [#55](https://github.com/ourongxing/chatgpt-vercel/issues/55) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
 2. 🎉 Merged PR [#2](https://github.com/gxusb/gxusb/pull/2) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 3. 🎉 Merged PR [#3](https://github.com/gxusb/gxusb/pull/3) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 4. 🎉 Merged PR [#1](https://github.com/gxusb/gxusb/pull/1) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
