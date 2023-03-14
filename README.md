@@ -24,8 +24,8 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#55](https://github.com/ourongxing/chatgpt-vercel/issues/55) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
-2. 🎉 Merged PR [#2](https://github.com/gxusb/gxusb/pull/2) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
+1. ❗️ Opened issue [#40](https://github.com/mengzonefire/twitter-media-downloader/issues/40) in [mengzonefire/twitter-media-downloader](https://github.com/mengzonefire/twitter-media-downloader)
+2. 🗣 Commented on [#55](https://github.com/ourongxing/chatgpt-vercel/issues/55) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
 3. 🎉 Merged PR [#3](https://github.com/gxusb/gxusb/pull/3) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 4. 🎉 Merged PR [#1](https://github.com/gxusb/gxusb/pull/1) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 5. 🗣 Commented on [#62](https://github.com/nilaoda/N_m3u8DL-RE/issues/62) in [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
