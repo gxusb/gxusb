@@ -101,6 +101,15 @@ C++                      1 repo              ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/595eec8ae8745b516c9a8ad8a265a100" target="_blank">📊 Weekly development breakdown</a>
+```text
+Bash           🕓 10h12m ████████████████▉░░░░░░ 73.8%
+Python         🕓 51m    █▍░░░░░░░░░░░░░░░░░░░░░  6.2%
+XML            🕓 36m    █░░░░░░░░░░░░░░░░░░░░░░  4.3%
+Shell Script   🕓 34m    ▉░░░░░░░░░░░░░░░░░░░░░░  4.2%
+Other          🕓 17m    ▍░░░░░░░░░░░░░░░░░░░░░░  2.1%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
