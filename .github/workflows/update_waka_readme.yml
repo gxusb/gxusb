@@ -28,6 +28,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_TIMEZONE: "False"
           LOCALE: "zh"
+          COMMIT_MESSAGE: "docs(README): Updated with Dev Metrics"
 
 #   update-gist:
 #     runs-on: ubuntu-latest
