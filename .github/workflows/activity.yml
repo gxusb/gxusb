@@ -14,7 +14,7 @@ jobs:
       - name: Update this repo's README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
         with:
-          COMMIT_MSG: '🎉 Update README with the recent activity'
+          COMMIT_MSG: 'docs: 🎉 Update README with the recent activity'
           MAX_LINES: 10
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
