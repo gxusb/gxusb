@@ -42,7 +42,7 @@
 [wakatime](https://wakatime.com/dashboard) [Awesome Readme Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -73,10 +73,14 @@
 
 ```text
 💬 编程语言: 
-本周没有记录到任何活动
+TOML                     23 mins             ██████████████████░░░░░░░   71.45 % 
+Log                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+PyCharm                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Go** 
@@ -92,7 +96,7 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 26/04/2023 20:38:32 UTC
+ Last Updated on 27/04/2023 09:39:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
