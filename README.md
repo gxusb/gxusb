@@ -24,7 +24,7 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/gxusb/gxusb/pull/5) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
+1. ❗ Opened issue [#472](https://github.com/hr3lxphr6j/bililive-go/issues/472) in [hr3lxphr6j/bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 2. ❗️ Opened issue [#40](https://github.com/mengzonefire/twitter-media-downloader/issues/40) in [mengzonefire/twitter-media-downloader](https://github.com/mengzonefire/twitter-media-downloader)
 3. 🗣 Commented on [#55](https://github.com/ourongxing/chatgpt-vercel/issues/55) in [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)
 4. 🎉 Merged PR [#1](https://github.com/gxusb/gxusb/pull/1) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
