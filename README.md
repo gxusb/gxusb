@@ -82,15 +82,14 @@
 **我最常使用 Shell** 
 
 ```text
-Shell                    1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Go                       1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Markdown                 1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Shell                    1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Go                       1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 
 
 
- Last Updated on 29/11/2023 20:37:50 UTC
+ Last Updated on 30/11/2023 02:25:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
