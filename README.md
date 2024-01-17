@@ -97,7 +97,9 @@ Go                       1 repo              ███████████�
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/595eec8ae8745b516c9a8ad8a265a100" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+PHP            🕓 7m ██████████████████▏░░░░░░░░ 67.4%
+GitIgnore file 🕓 1m ████▉░░░░░░░░░░░░░░░░░░░░░░ 18.1%
+JSON           🕓 1m ███▉░░░░░░░░░░░░░░░░░░░░░░░ 14.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
