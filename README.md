@@ -24,9 +24,9 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/gxusb/gxusb/pull/10) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
-2. 🎉 Merged PR [#9](https://github.com/gxusb/gxusb/pull/9) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
-3. 🎉 Merged PR [#8](https://github.com/gxusb/gxusb/pull/8) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
+1. 🚀 Published release [v0.17.31](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17.31) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
+2. 🚀 Published release [v0.17.3](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17.3) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
+3. 🚀 Published release [v0.17](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
 4. 🎉 Merged PR [#1](https://github.com/gxusb/gxusb/pull/1) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 5. 🗣 Commented on [#62](https://github.com/nilaoda/N_m3u8DL-RE/issues/62) in [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
 6. 🗣 Commented on [#5](https://github.com/v03413/ServerStatus-Client/issues/5) in [v03413/ServerStatus-Client](https://github.com/v03413/ServerStatus-Client)
