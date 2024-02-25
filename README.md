@@ -24,7 +24,7 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.17.31](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17.31) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
+1. ❗ Opened issue [#11](https://github.com/gxusb/gxusb/issues/11) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 2. 🚀 Published release [v0.17.3](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17.3) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
 3. 🚀 Published release [v0.17](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
 4. 🎉 Merged PR [#1](https://github.com/gxusb/gxusb/pull/1) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
