@@ -24,8 +24,8 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#11](https://github.com/gxusb/gxusb/issues/11) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
-2. 🚀 Published release [v0.17.3](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17.3) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
+1. 🗣 Commented on [#180](https://github.com/CHKZL/DDTV/issues/180#issuecomment-1985871215) in [CHKZL/DDTV](https://github.com/CHKZL/DDTV)
+2. ❗ Opened issue [#201](https://github.com/CHKZL/DDTV/issues/201) in [CHKZL/DDTV](https://github.com/CHKZL/DDTV)
 3. 🚀 Published release [v0.17](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
 4. 🎉 Merged PR [#1](https://github.com/gxusb/gxusb/pull/1) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 5. 🗣 Commented on [#62](https://github.com/nilaoda/N_m3u8DL-RE/issues/62) in [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
