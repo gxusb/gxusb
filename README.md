@@ -42,7 +42,7 @@
 [wakatime](https://wakatime.com/dashboard) [Awesome Readme Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -86,15 +86,16 @@ VS Code                  2 hrs 35 mins       ███████████�
 **我最常使用 Shell** 
 
 ```text
-Shell                    1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C#                       1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Go                       1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Shell                    1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Kotlin                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Go                       1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
 
 
- Last Updated on 11/04/2024 14:25:28 UTC
+ Last Updated on 11/04/2024 20:35:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
