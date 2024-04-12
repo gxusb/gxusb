@@ -24,8 +24,8 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#50](https://github.com/hua0512/stream-rec/issues/50) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
-2. ❗ Opened issue [#201](https://github.com/CHKZL/DDTV/issues/201) in [CHKZL/DDTV](https://github.com/CHKZL/DDTV)
+1. 🔒 Closed issue [#50](https://github.com/hua0512/stream-rec/issues/50) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
+2. ❗ Opened issue [#50](https://github.com/hua0512/stream-rec/issues/50) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
 3. 🚀 Published release [v0.17](https://github.com/gxusb/ServerStatus-Client/releases/tag/v0.17) in [gxusb/ServerStatus-Client](https://github.com/gxusb/ServerStatus-Client)
 4. 🎉 Merged PR [#1](https://github.com/gxusb/gxusb/pull/1) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 5. 🗣 Commented on [#62](https://github.com/nilaoda/N_m3u8DL-RE/issues/62) in [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
