@@ -42,7 +42,7 @@
 [wakatime](https://wakatime.com/dashboard) [Awesome Readme Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -73,10 +73,11 @@
 
 ```text
 💬 编程语言: 
-Bash                     2 mins              █████████████████████████   100.00 % 
+YAML                     5 mins              █████████████████░░░░░░░░   67.36 % 
+Bash                     2 mins              ████████░░░░░░░░░░░░░░░░░   32.64 % 
 
 🔥 编辑器: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Shell** 
@@ -90,7 +91,7 @@ C#                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 14/11/2024 20:49:41 UTC
+ Last Updated on 15/11/2024 02:33:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
