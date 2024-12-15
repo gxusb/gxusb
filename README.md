@@ -24,8 +24,8 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#33](https://github.com/MoeClub/Note/issues/33#issuecomment-2391532749) in [MoeClub/Note](https://github.com/MoeClub/Note)
-2. 🗣 Commented on [#56](https://github.com/hua0512/stream-rec/issues/56#issuecomment-2081716751) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
+1. 🎉 Merged PR [#13](https://github.com/gxusb/gxusb/pull/13) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
+2. 🎉 Merged PR [#12](https://github.com/gxusb/gxusb/pull/12) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 3. 🗣 Commented on [#56](https://github.com/hua0512/stream-rec/issues/56#issuecomment-2067642109) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
 4. 🗣 Commented on [#56](https://github.com/hua0512/stream-rec/issues/56#issuecomment-2067637130) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
 5. ❗ Opened issue [#56](https://github.com/hua0512/stream-rec/issues/56) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
