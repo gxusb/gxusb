@@ -42,7 +42,7 @@
 [wakatime](https://wakatime.com/dashboard) [Awesome Readme Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -73,11 +73,11 @@
 
 ```text
 💬 编程语言: 
-Bash                     28 mins             ███████████████░░░░░░░░░░   61.91 % 
-TOML                     17 mins             ██████████░░░░░░░░░░░░░░░   38.09 % 
+Bash                     1 hr 40 mins        ███████████████████░░░░░░   74.74 % 
+TOML                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
 
 🔥 编辑器: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Shell** 
@@ -91,7 +91,7 @@ Kotlin                   1 repo              ██████░░░░░�
 
 
 
- Last Updated on 06/01/2025 20:49:07 UTC
+ Last Updated on 07/01/2025 02:33:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
