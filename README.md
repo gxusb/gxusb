@@ -82,14 +82,13 @@
 **我最常使用 Shell** 
 
 ```text
-Shell                    2 repos             █████████████████░░░░░░░░   66.67 % 
-Kotlin                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Shell                    2 repos             █████████████████████████   100.00 % 
 ```
 
 
 
 
- Last Updated on 20/04/2025 20:47:51 UTC
+ Last Updated on 21/04/2025 02:32:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
