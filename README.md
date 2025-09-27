@@ -42,7 +42,7 @@
 [wakatime](https://wakatime.com/dashboard) [Awesome Readme Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -73,11 +73,11 @@
 
 ```text
 💬 编程语言: 
-Other                    2 mins              ███████████████████████░░   93.65 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Bash                     11 mins             █████████████████████░░░░   83.17 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 
 🔥 编辑器: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Shell** 
@@ -89,7 +89,7 @@ Shell                    2 repos             ███████████�
 
 
 
- Last Updated on 27/09/2025 20:48:09 UTC
+ Last Updated on 28/09/2025 02:33:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
