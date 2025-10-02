@@ -11,7 +11,7 @@
   <img width="49.6%" src="https://github-readme-streak-stats.herokuapp.com?user=gxusb&theme=dark&locale=zh&fire=92DD6B&ring=6FAFDD">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gxusb&bg_color=d4e3fe&color=9e4c98&line=669c35&point=d29d00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gxusb&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 <p align="left">
