@@ -24,9 +24,9 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/gxusb/gxusb/pull/13) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
-2. 🎉 Merged PR [#12](https://github.com/gxusb/gxusb/pull/12) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
-3. 🗣 Commented on [#56](https://github.com/hua0512/stream-rec/issues/56#issuecomment-2067642109) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
+1. 🎉 Merged PR [#16](https://github.com/gxusb/gxusb/pull/16) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
+2. 🎉 Merged PR [#15](https://github.com/gxusb/gxusb/pull/15) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
+3. 🎉 Merged PR [#14](https://github.com/gxusb/gxusb/pull/14) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 4. 🗣 Commented on [#56](https://github.com/hua0512/stream-rec/issues/56#issuecomment-2067637130) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
 5. ❗ Opened issue [#56](https://github.com/hua0512/stream-rec/issues/56) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
 6. ❗ Opened issue [#50](https://github.com/hua0512/stream-rec/issues/50) in [hua0512/stream-rec](https://github.com/hua0512/stream-rec)
