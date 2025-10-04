@@ -1,4 +1,4 @@
-name: Generate Animation
+name: Generate Animation（生成贡献蛇形动画）
 
 on:
   schedule:
@@ -50,4 +50,5 @@ jobs:
             git push origin master
           fi
         env:
+          TZ: Asia/Shanghai
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
