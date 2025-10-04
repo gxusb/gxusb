@@ -1,37 +1,53 @@
 name: Generate Animation
 
 on:
-  # run automatically every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-  # allows to manually run the job at any time
   workflow_dispatch:
-  # run on every push on the master branch
-  #push:
-  #  branches:
-  #  - master
 
 jobs:
   generate:
+    name: 生成并更新动画资源
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: 检出 master 分支代码
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: 生成蛇形动画文件
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4.2.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: 确保 assets 目录存在
+        run: mkdir -p assets
+
+      - name: 删除旧的动画文件（保留 assets 中其他文件）
+        run: |
+          rm -f assets/github-snake.svg
+          rm -f assets/github-snake-dark.svg
+          rm -f assets/ocean.gif
+
+      - name: 复制新动画文件到 assets 目录
+        run: cp dist/* assets/
+
+      - name: 提交并推送更新（仅当有变更时）
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          git add assets/github-snake.svg assets/github-snake-dark.svg assets/ocean.gif
+
+          if ! git diff --quiet --cached; then
+            git commit -m "🔄 更新贡献蛇形动画资源 [$(date +'%Y-%m-%d %H:%M:%S')]"
+            git push origin master
+          fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
