@@ -1,4 +1,4 @@
-name: Generate Animation（生成贡献蛇形动画）
+name: 生成贡献蛇形动画
 
 on:
   schedule:
