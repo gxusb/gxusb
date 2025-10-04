@@ -6,6 +6,12 @@
 
 ## ⚡ Github Stats
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img alt="github-snake" src="assets/github-snake.svg" />
+</picture>
+
 <p align="left">
   <img width="49.6%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&theme=tokyonight&hide_border=true&locale=cn">
   <img width="49.6%" src="https://github-readme-streak-stats.herokuapp.com?user=gxusb&theme=dark&locale=zh&fire=92DD6B&ring=6FAFDD">
@@ -103,8 +109,6 @@ nezha-agent              2 hrs 15 mins       ███████░░░░�
 Shell                    2 repos             █████████████████████████   100.00 % 
 ```
 
-
-
 **时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/gxusb/gxusb/master/assets/bar_graph.png)
@@ -122,8 +126,6 @@ Markdown 🕓 7m    ▍░░░░░░░░░░░░░░░░░░░
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-
-[![github contribution grid snake animation](https://raw.githubusercontent.com/gxusb/gxusb/output/github-contribution-grid-snake.svg)](https://github.com/gxusb)
 
 <!---
 gxusb/gxusb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
