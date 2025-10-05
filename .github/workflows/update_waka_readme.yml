@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
+        env:
+          TZ: Asia/Shanghai
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GIT_TOKEN }}
@@ -29,14 +31,3 @@ jobs:
           # SHOW_TIMEZONE: "False"
           LOCALE: "zh"
           COMMIT_MESSAGE: "Docs(README): Updated with Dev Metrics"
-
-#   update-gist:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@master
-#       - name: Update gist with WakaTime stats
-#         uses: matchai/waka-box@master
-#         env:
-#           GH_TOKEN: ${{ secrets.GIT_TOKEN }}
-#           GIST_ID: "595eec8ae8745b516c9a8ad8a265a100"
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
