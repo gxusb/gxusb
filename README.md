@@ -12,19 +12,15 @@
   <img alt="github-snake" src="assets/github-snake.svg" />
 </picture>
 
+<details>
+<summary>👀 Github status images</summary>
 <p align="left">
-  <img width="49.6%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&theme=tokyonight&hide_border=true&locale=cn">
-  <img width="49.6%" src="https://github-readme-streak-stats.herokuapp.com?user=gxusb&theme=dark&locale=zh&fire=92DD6B&ring=6FAFDD">
+  <img width="49.8%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&theme=tokyonight&hide_border=true&locale=cn">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=gxusb&theme=vue&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gxusb&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!---
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gxusb&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxusb&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1&locale=cn">
-</p>
---->
+</details>
 
 <details>
 <summary>:zap: Recent Activity</summary>
