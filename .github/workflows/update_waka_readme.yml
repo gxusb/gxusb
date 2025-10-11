@@ -18,7 +18,7 @@ jobs:
           TZ: Asia/Shanghai
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
           # # Show Language Data
           # SHOW_LANGUAGE: "True"
