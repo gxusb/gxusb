@@ -15,6 +15,6 @@ jobs:
         uses: jamesgeorge007/github-activity-readme@master
         with:
           COMMIT_MSG: 'docs: 🎉 Update README with the recent activity'
-          MAX_LINES: 10
+          MAX_LINES: 15
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
