@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_TOKEN: ${{ secrets.GIT_TOKEN }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
       GIST_ID: "595eec8ae8745b516c9a8ad8a265a100"
@@ -48,6 +48,6 @@ jobs:
       - name: Update gist
         uses: matchai/waka-box@master
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GIT_TOKEN }}
           GIST_ID: "595eec8ae8745b516c9a8ad8a265a100"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
