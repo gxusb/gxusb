@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-16-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-13-blue)
 
 **🐱 我的 GitHub 数据** 
 
@@ -86,14 +86,13 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Bash                     0 secs              █████████████░░░░░░░░░░░░   51.78 % 
-Other                    0 secs              ████████████░░░░░░░░░░░░░   48.22 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-DailyCheckin             0 secs              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 **我最常使用 Shell** 
@@ -109,7 +108,7 @@ Shell                    2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/gxusb/gxusb/master/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 20:58:07 UTC
+ Last Updated on 28/10/2025 02:38:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
