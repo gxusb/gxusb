@@ -43,8 +43,6 @@
 [wakatime](https://wakatime.com/dashboard) [Awesome Readme Stats](https://github.com/marketplace/actions/profile-readme-development-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
 **🐱 我的 GitHub 数据** 
@@ -86,14 +84,14 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Bash                     28 mins             █████████████████████░░░░   85.28 % 
-YAML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Bash                     28 mins             ████████████████████░░░░░   81.10 % 
+YAML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 
 🔥 编辑器: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-rust-srec                32 mins             █████████████████████████   100.00 % 
+rust-srec                34 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Shell** 
@@ -109,7 +107,7 @@ Shell                    2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/gxusb/gxusb/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 20:59:26 UTC
+ Last Updated on 03/01/2026 02:41:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
