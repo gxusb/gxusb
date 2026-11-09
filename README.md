@@ -26,7 +26,7 @@
 <summary>:zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/gxusb/gxusb/pull/17) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
+1. 🗣 Commented on [#1](https://github.com/yizhiruonan/HybridFileXfer/issues/1#issuecomment-6744241965) in [yizhiruonan/HybridFileXfer](https://github.com/yizhiruonan/HybridFileXfer)
 2. 🎉 Merged PR [#16](https://github.com/gxusb/gxusb/pull/16) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 3. 🎉 Merged PR [#15](https://github.com/gxusb/gxusb/pull/15) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
 4. 🎉 Merged PR [#14](https://github.com/gxusb/gxusb/pull/14) in [gxusb/gxusb](https://github.com/gxusb/gxusb)
